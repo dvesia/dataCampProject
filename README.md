@@ -1,1 +1,1 @@
-# dataCampProject
+# funnyProject
