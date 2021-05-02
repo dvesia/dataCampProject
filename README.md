@@ -1,1 +1,1 @@
-# funnyProject
+# Projects
